@@ -1,8 +1,0 @@
-{
-  "preset": "react-native",
-  "globals": {
-    "__DEV__": false
-  },
-  "testPathIgnorePatterns": ["/node_modules/"],
-  "modulePathIgnorePatterns": ["/.build/", "/e2e/"]
-}
